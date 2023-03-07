@@ -1,5 +1,7 @@
 # git-group-practice
 Git group practice
+
+Kenny was here. Unfortunate.
 <h1>Team applications<h2>
 
 <h3> Goals for the day:<h3>
